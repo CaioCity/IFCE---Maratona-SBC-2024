@@ -1,5 +1,5 @@
 // https://judge.beecrowd.com/en/problems/view/2408
-// Problema : Vice-Campe„o
+// Problema : Vice-Campe√£o
 
 #include <iostream>
 

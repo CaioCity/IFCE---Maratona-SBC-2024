@@ -1,5 +1,5 @@
 // https://judge.beecrowd.com/en/problems/view/2414
-// Problema 2414: Desafio do Maior Número
+// Problema 2414: Desafio do Maior NÃºmero
 
 #include <iostream>
 

@@ -1,3 +1,6 @@
+// https://neps.academy/br/exercise/392
+// Matriz Escada
+
 #include <bits/stdc++.h>
 
 int main(){

@@ -1,5 +1,5 @@
 // https://judge.beecrowd.com/en/problems/view/2410
-// Problema 2410: Frequência na aula
+// Problema 2410: FrequÃªncia na aula
 
 #include <iostream>
 #include <stdlib.h>

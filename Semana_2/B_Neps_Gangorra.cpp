@@ -1,3 +1,6 @@
+// https://neps.academy/br/exercise/260
+// Gangorra
+
 #include <bits/stdc++.h>
 
 using namespace std;

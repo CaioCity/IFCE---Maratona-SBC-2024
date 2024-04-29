@@ -1,3 +1,6 @@
+// https://neps.academy/br/exercise/87
+// Fliper
+
 #include <bits/stdc++.h>
 
 using namespace std;

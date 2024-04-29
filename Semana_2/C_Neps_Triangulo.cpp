@@ -1,3 +1,6 @@
+// https://neps.academy/br/exercise/385
+// Triangulo
+
 #include <bits/stdc++.h>
 
 int main(){

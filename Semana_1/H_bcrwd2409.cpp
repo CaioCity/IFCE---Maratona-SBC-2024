@@ -1,5 +1,5 @@
 // https://judge.beecrowd.com/en/problems/view/2409
-// Problema 2409: Colch„o
+// Problema 2409: Colch√£o
 
 #include <iostream>
 

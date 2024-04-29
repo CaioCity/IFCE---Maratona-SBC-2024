@@ -7,6 +7,7 @@ short int N;
 
 bool segue_caminho (short int, short int, char[][500], bool[][500], bool[][500]); //simula o caminho a partir de uma seta origem
 //vai retornar se o caminho é safe ou perigoso.
+
 int main(){
 	
 	std::ios::sync_with_stdio(0), std::cin.tie(0), std::cout.tie(0);
@@ -14,7 +15,7 @@ int main(){
 	short int safes=0;
 	std::cin>>N;
 	
-	char Tab[N][500]; 		//tabuleiro com os caracteres
+	char Tab[N][500]; 	//tabuleiro com os caracteres
 	bool boolTab[N][500];   //diz se a casa já foi visitada
 	bool gabTab[N][500];    //diz se a casa é segura ou perigosa
 	

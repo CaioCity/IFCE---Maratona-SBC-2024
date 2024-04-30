@@ -12,7 +12,7 @@ int main(){
 	
 	std::ios::sync_with_stdio(0), std::cin.tie(0), std::cout.tie(0);
 	
-	short int safes=0;
+	int safes=0;
 	std::cin>>N;
 	
 	char Tab[N][500]; 	//tabuleiro com os caracteres

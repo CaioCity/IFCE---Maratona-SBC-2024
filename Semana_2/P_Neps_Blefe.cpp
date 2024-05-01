@@ -1,5 +1,6 @@
 // https://neps.academy/br/exercise/394
 // Blefe
+
 #include <bits/stdc++.h>
 
 bool binary_search(int, short int, short int, int*);

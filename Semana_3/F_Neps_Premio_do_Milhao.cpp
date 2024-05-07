@@ -13,9 +13,9 @@ int main() {
   N=0;
   AT=0;
   while (AT<1000000){  
-  cin>>A;
-  AT+=A;
-  N++;
+    cin>>A;
+    AT+=A;
+    N++;
   }
   cout<<N<<endl;
   return 0;

@@ -16,15 +16,9 @@ public:
             if(b<x)
                 if (grid[a][b + 1]=='1')
                     fila.push(make_pair(a, (b + 1)));
-            if(b>0)
-                if (grid[a][b - 1]=='1')
-                    fila.push(make_pair(a, (b - 1)));
             if(a<y)
                 if (grid[a + 1][b]=='1')
                     fila.push(make_pair((a + 1), b));
-            if(a>0)
-                if (grid[a - 1][b]=='1')
-                    fila.push(make_pair((a - 1), b));
         }
     }
 
@@ -38,6 +32,7 @@ public:
                 if (grid[i][j]=='1') {
                     ilhas++;
                     define_ilha(i, j, grid);
+                    j++;
                 }
 
         return ilhas;

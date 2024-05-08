@@ -11,19 +11,19 @@ public:
             short int a = fila.front().first, b = fila.front().second;
             fila.pop();
             
-            grid[a][b] = 0;
+            grid[a][b] = '0';
             short int y = grid.size()-1, x = grid[0].size()-1;
             if(b<x)
-                if (grid[a][b + 1])
+                if (grid[a][b + 1]=='1')
                     fila.push(make_pair(a, (b + 1)));
             if(b>0)
-                if (grid[a][b - 1])
+                if (grid[a][b - 1]=='1')
                     fila.push(make_pair(a, (b - 1)));
             if(a<y)
-                if (grid[a + 1][b])
+                if (grid[a + 1][b]=='1')
                     fila.push(make_pair((a + 1), b));
             if(a>0)
-                if (grid[a - 1][b])
+                if (grid[a - 1][b]=='1')
                     fila.push(make_pair((a - 1), b));
         }
     }
@@ -35,7 +35,7 @@ public:
 
         for (short int i = 0; i < y; i++)
             for (short int j = 0; j < x; j++)
-                if (grid[i][j]) {
+                if (grid[i][j]=='1') {
                     ilhas++;
                     define_ilha(i, j, grid);
                 }

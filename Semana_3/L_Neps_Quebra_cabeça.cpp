@@ -68,8 +68,9 @@ int binary_search (int target, int inicio, int fim, peca* array){
 	return 0;
 }
 
-em C
+
 /*
+em C
 #include <stdio.h>
 #include <stdlib.h>
 

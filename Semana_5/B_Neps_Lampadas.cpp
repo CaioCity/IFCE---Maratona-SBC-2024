@@ -1,5 +1,5 @@
 // https://neps.academy/br/exercise/52
-// Lampadas
+// Lâmpadas
 #include <bits/stdc++.h>
 
 using namespace std;

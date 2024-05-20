@@ -201,6 +201,9 @@ int main(){
 //     return 0;
 // }
 
+
+// 2a tentativa: Um pouco mais de força bruta
+
 // #include <stdio.h>
 // #include <stdlib.h>
 

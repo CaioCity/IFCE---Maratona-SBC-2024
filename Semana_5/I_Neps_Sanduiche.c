@@ -5,7 +5,7 @@
 ** Esses são alguns recados para vc q está empenhado a resolver/entender essa questão
 ** Já foram gastas cerca de 4h nessa questão
 ** São exatas 4h da manhã e acabei de levar mais um WA interno, já passou da hora de ninar.
-** Nesse arquivo há duas soluções que possuem um considerável grau de semelhança: 
+** Nesse arquivo há duas soluções que possuem um considerável grau de semelhança:
 ** A 1a é mais inteligente, diria que possui uma implementação mais "delicada". (Está comentada logo abaixo, linha 30)
 ** Já sobre a 2a, digamos que ela é um pouco mais bruta. (Linha 110)
 ** Ambas as soluções estão levando WA interno

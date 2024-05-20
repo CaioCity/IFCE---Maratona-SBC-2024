@@ -35,11 +35,15 @@ Resp = 4
 Esse foi crucial para a vitória...
 7 3
 1 2 3 2 1 2 1
-Resp 5
+Resp = 5
 
 12 6
 2 1 1 2 16 4 1 15 1 10 8 4
 Resp = 2
+
+10 6
+2 1 1 4 3 3 1 1 1 2
+Resp = 6
 
 */
 

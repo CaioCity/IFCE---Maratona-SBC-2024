@@ -7,7 +7,7 @@
 ** São exatas 4h da manhã e acabei de levar mais um WA interno, já passou da hora de ninar.
 ** Nesse arquivo há duas soluções que possuem um considerável grau de semelhança:
 ** A 1a é mais inteligente, diria que possui uma implementação mais "delicada". (Está comentada logo abaixo, linha 50)
-** Já sobre a 2a, digamos que ela é um pouco mais bruta. (Linha 200)
+** Já sobre a 2a, digamos que ela é um pouco mais bruta. (Linha 210)
 ** Ambas as soluções estão levando WA interno
 ** Desenvolvi mais alguns casos testes que estarão abaixo desses recados para te ajudar (foram diferenciais para o meu sucesso)
 ** Por último, mas não menos importante, obrigado se vc tiver lido até aqui.

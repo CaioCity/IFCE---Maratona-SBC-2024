@@ -1,5 +1,5 @@
-//
-//
+// https://codeforces.com/contest/1974/problem/B
+// Symmetric Encoding
 
 #include <bits/stdc++.h>
 

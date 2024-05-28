@@ -8,8 +8,8 @@ Mesmo com esse leve atraso, fiz as 3 primeiras questões em 40 min, restava 1h e
 Tive bastante dificuldade para interpretar e elaborar um algoritmo para essa questão.
 Estourei o tempo do simulado, gastei cerca de 2h para resolvê-la.
 
-Tempo esperado: 2h
+Tempo esperado : 2h
 
-Tempo total: 2h e 40 min
+Tempo total : 2h e 40 min
 
-Em 2 h: 3 questões
+Em 2h : 3 questões

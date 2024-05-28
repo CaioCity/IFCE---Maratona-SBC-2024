@@ -5,7 +5,7 @@
 
 int main(){
 
-    std::cin.tie(0); std::cout.tie(0);
+    std::ios::sync_with_stdio(0); std::cin.tie(0); std::cout.tie(0);
 
     std::string frase,letras;
     int tam1,tam2,answer=0;

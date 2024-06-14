@@ -2,24 +2,12 @@
 // Sanduíche
 
 /*
-** Esses são alguns recados para vc q está empenhado a resolver/entender essa questão
-** Já foram gastas cerca de 4h nesse problema 
-** São exatas 4h da manhã e acabei de levar mais um WA interno, já passou da hora de ninar.
+** Questão introdutória de Soma de prefixos 
+** Os códigos abaixo ainda podem ser bastante melhorados.
 ** Nesse arquivo há duas soluções que possuem um considerável grau de semelhança:
-** A 1a é mais inteligente, diria que possui uma implementação mais "delicada". (Está comentada logo abaixo, linha 50)
-** Já sobre a 2a, digamos que ela é um pouco mais bruta. (Linha 210)
-** Ambas as soluções estão levando WA interno
+** A 1a está correta. (Está comentada logo abaixo, linha 50)
+** A 2a solução está levando WA interno. (Linha 210)
 ** Desenvolvi mais alguns casos testes que estarão abaixo desses recados para te ajudar (foram diferenciais para o meu sucesso)
-** Por último, mas não menos importante, obrigado se vc tiver lido até aqui.
-** Que a força esteja com você.
-*/
-
-/* Atualização:
-** São 11:30 da manhã, após algumas poucas horas de sono, voltei minhas energias novamente para essaa questão
-** Após criar mais casos testes, consegui levar a solução 1 ao accepted, oo objetivo foi alcançado.
-** Ao todo, foram gastas umas 6h para tal feito. Restam algumas reflexões... Essa questão era da 1a fase da OBI N2 . . .
-** Por fim, agradeço pela conquista. Espero que este arquivo sirva a você, que possui uma longa caminhada pela frente.
-** Em frente, persevere!
 */
 
 /* Casos testes extras :

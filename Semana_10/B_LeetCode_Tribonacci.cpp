@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/n-th-tribonacci-number/
-// 1137 - N-th Tribonacci Number
+// N-th Tribonacci Number
 
 // Solução com DP
 class Solution {
